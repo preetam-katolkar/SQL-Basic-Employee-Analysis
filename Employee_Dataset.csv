@@ -1,0 +1,151 @@
+EmployeeID,FirstName,LastName,Gender,Age,Department,JobTitle,Salary,City,JoiningDate,ManagerID,Email
+1,Chetan,Sharma,Male,36,Operations,Operations Analyst,34000.0,Mumbai,2026-04-05,,chetan.sharma1@example.com
+2,Darshan,Verma,Male,23,Marketing,Marketing Manager,25000.0,Pune,2020-06-14,,darshan.verma2@example.com
+3,Zoya,More,Male,33,IT,Data Engineer,119000.0,Nashik,2022-09-15,,zoya.more3@example.com
+4,Soham,Iyer,Male,31,Finance,Accountant,79000.0,Bengaluru,2021-02-12,,soham.iyer4@example.com
+5,Khushi,Malhotra,Female,26,Finance,Accountant,73000.0,Pune,2022-01-10,,khushi.malhotra5@example.com
+6,Naina,Sinha,Male,50,IT,QA Analyst,96000.0,Pune,2022-03-31,5.0,naina.sinha6@example.com
+7,Nisha,Naik,Male,57,Operations,Operations Analyst,32000.0,Pune,2018-07-07,3.0,nisha.naik7@example.com
+8,Arnav,Kale,Female,45,HR,HR Executive,57000.0,Indore,2025-02-16,2.0,arnav.kale8@example.com
+9,Rohan,Pawar,Male,25,HR,Recruiter,43000.0,Nashik,2026-03-06,3.0,rohan.pawar9@example.com
+10,Tanvi,Chavan,Female,41,Finance,Financial Analyst,32000.0,Delhi,2018-05-12,7.0,tanvi.chavan10@example.com
+11,Naman,Verma,Female,34,HR,Recruiter,85000.0,Chennai,2025-03-18,3.0,naman.verma11@example.com
+12,Naina,Joshi,Female,58,HR,Recruiter,76000.0,Jaipur,2022-06-24,4.0,naina.joshi12@example.com
+13,Dev,Khan,Male,24,Sales,Sales Executive,34000.0,Mumbai,2025-01-14,11.0,dev.khan13@example.com
+14,Shivani,More,Female,45,IT,BI Analyst,104000.0,Indore,2023-12-08,9.0,shivani.more14@example.com
+15,Aditi,Thakur,Female,55,Operations,Operations Executive,68000.0,Hyderabad,2026-08-15,2.0,aditi.thakur15@example.com
+16,Nisha,Jadhav,Male,21,HR,HR Manager,55000.0,Nashik,2026-07-18,9.0,nisha.jadhav16@example.com
+17,Bhavna,Kale,Female,53,Operations,Operations Analyst,58000.0,Delhi,2019-09-19,,bhavna.kale17@example.com
+18,Harsh,Nair,Female,41,Customer Support,Support Executive,49000.0,Nagpur,2019-04-04,10.0,harsh.nair18@example.com
+19,Meera,Patil,Male,26,HR,HR Executive,84000.0,Pune,2026-07-13,5.0,
+20,Tanya,Nair,Male,54,HR,Recruiter,76000.0,Delhi,2024-01-18,10.0,tanya.nair20@example.com
+21,Samir,Thakur,Male,49,Operations,Operations Analyst,77000.0,Nashik,2023-01-24,8.0,samir.thakur21@example.com
+22,Krishna,Verma,Male,58,Finance,Accountant,95000.0,Delhi,2024-08-07,1.0,krishna.verma22@example.com
+23,Arjun,Saxena,Male,35,Operations,Operations Executive,24000.0,,2021-09-15,17.0,arjun.saxena23@example.com
+24,Meera,Rao,Female,34,Operations,Operations Manager,54000.0,Mumbai,2026-02-10,8.0,meera.rao24@example.com
+25,Tanya,Sinha,Female,27,Sales,Sales Analyst,32000.0,Chennai,2021-12-22,14.0,tanya.sinha25@example.com
+26,Tanvi,Kale,Female,27,Operations,Operations Executive,23000.0,Chennai,2026-03-02,4.0,tanvi.kale26@example.com
+27,Mihir,Gupta,Female,29,HR,HR Manager,76000.0,Mumbai,2021-02-14,8.0,mihir.gupta27@example.com
+28,Arjun,Mishra,Male,24,Customer Support,Support Executive,59000.0,Nashik,2018-03-02,25.0,arjun.mishra28@example.com
+29,Meera,Singh,Male,51,Sales,Business Development Executive,,Chennai,2018-08-29,13.0,meera.singh29@example.com
+30,Aarav,Chavan,Female,39,Finance,Finance Manager,79000.0,Nashik,2025-06-04,5.0,aarav.chavan30@example.com
+31,Kajal,Mehta,Male,58,HR,HR Executive,29000.0,Bengaluru,2018-08-23,19.0,kajal.mehta31@example.com
+32,Varun,Khan,Male,24,Customer Support,Senior Support Executive,50000.0,Pune,2020-02-01,20.0,varun.khan32@example.com
+33,Ankita,Thakur,Male,46,Customer Support,Senior Support Executive,25000.0,Jaipur,2020-10-05,6.0,ankita.thakur33@example.com
+34,Sanjay,Thakur,Female,37,Marketing,SEO Specialist,48000.0,Bengaluru,2020-09-04,,sanjay.thakur34@example.com
+35,Sameer,Joshi,Female,50,Operations,Operations Analyst,40000.0,Pune,2018-02-08,7.0,sameer.joshi35@example.com
+36,Arjun,Nair,Female,29,HR,Recruiter,66000.0,Pune,2020-09-27,19.0,arjun.nair36@example.com
+37,Harsh,Mishra,Male,54,Customer Support,Team Leader,18000.0,Nashik,2021-05-11,9.0,harsh.mishra37@example.com
+38,Naina,Deshmukh,Male,56,IT,QA Analyst,47000.0,Hyderabad,2021-02-28,22.0,
+39,Kavita,Thakur,Male,53,Operations,Operations Analyst,51000.0,Hyderabad,2018-07-28,28.0,kavita.thakur39@example.com
+40,Neha,Patil,Female,29,IT,SQL Developer,109000.0,Hyderabad,2019-10-24,36.0,neha.patil40@example.com
+41,Shivani,Nair,Male,25,IT,Data Analyst,148000.0,Mumbai,2024-02-13,24.0,shivani.nair41@example.com
+42,Diya,Jadhav,Male,40,HR,HR Executive,68000.0,Nagpur,2022-01-05,16.0,diya.jadhav42@example.com
+43,Bhavna,Pawar,Female,30,Customer Support,Support Analyst,33000.0,Mumbai,2019-12-27,2.0,bhavna.pawar43@example.com
+44,Ishaan,Ghosh,Male,36,Finance,Finance Manager,59000.0,Mumbai,2025-11-12,25.0,ishaan.ghosh44@example.com
+45,Akhil,Kale,Male,33,Sales,Sales Analyst,78000.0,Bengaluru,2021-06-04,15.0,akhil.kale45@example.com
+46,Akash,Thakur,Female,42,HR,HR Manager,57000.0,,2026-09-03,23.0,akash.thakur46@example.com
+47,Abhishek,Chavan,Female,22,Operations,Operations Analyst,27000.0,Hyderabad,2020-01-02,3.0,abhishek.chavan47@example.com
+48,Bhavna,More,Male,41,Sales,Sales Manager,75000.0,Jaipur,2023-09-26,25.0,bhavna.more48@example.com
+49,Kajal,Rao,Male,48,IT,QA Analyst,28000.0,Nashik,2024-01-15,24.0,kajal.rao49@example.com
+50,Shraddha,Verma,Female,41,Operations,Operations Analyst,62000.0,Pune,2026-01-27,33.0,shraddha.verma50@example.com
+51,Pankaj,Thakur,Male,46,Sales,Sales Manager,57000.0,Nashik,2019-06-06,,pankaj.thakur51@example.com
+52,Sanjay,Thakur,Male,57,Sales,Sales Analyst,58000.0,Chennai,2024-02-23,20.0,sanjay.thakur52@example.com
+53,Nikhil,Gupta,Male,50,Sales,Sales Manager,76000.0,Indore,2025-07-30,33.0,nikhil.gupta53@example.com
+54,Tanya,Sinha,Female,26,Customer Support,Senior Support Executive,36000.0,Nashik,2025-06-12,6.0,tanya.sinha54@example.com
+55,Meera,Thakur,Male,33,Finance,Financial Analyst,43000.0,Nagpur,2018-07-09,31.0,meera.thakur55@example.com
+56,Arjun,Mishra,Male,45,Sales,Sales Analyst,83000.0,Chennai,2020-09-26,42.0,arjun.mishra56@example.com
+57,Aarav,Wagh,Female,48,Customer Support,Support Executive,32000.0,Mumbai,2025-10-21,4.0,
+58,Mihir,Banerjee,Female,50,Customer Support,Support Executive,,Indore,2025-06-27,49.0,mihir.banerjee58@example.com
+59,Sneha,More,Female,56,Customer Support,Support Analyst,46000.0,Mumbai,2026-05-05,29.0,sneha.more59@example.com
+60,Naina,Malhotra,Female,54,HR,Recruiter,84000.0,Delhi,2021-01-29,5.0,naina.malhotra60@example.com
+61,Nikhil,Kulkarni,Male,41,Finance,Finance Executive,94000.0,Pune,2019-07-21,15.0,nikhil.kulkarni61@example.com
+62,Sakshi,Saxena,Female,25,HR,HR Analyst,75000.0,Chennai,2021-09-17,27.0,sakshi.saxena62@example.com
+63,Anjali,Gupta,Female,45,Customer Support,Support Analyst,55000.0,Nagpur,2026-08-02,31.0,anjali.gupta63@example.com
+64,Aarav,Pawar,Male,47,Finance,Finance Manager,93000.0,Nashik,2024-10-06,32.0,aarav.pawar64@example.com
+65,Krishna,Rao,Female,22,Sales,Business Development Executive,69000.0,Bengaluru,2025-07-02,22.0,krishna.rao65@example.com
+66,Tanvi,Banerjee,Female,46,HR,HR Executive,25000.0,Pune,2025-03-17,18.0,tanvi.banerjee66@example.com
+67,Tanvi,Singh,Female,45,IT,SQL Developer,69000.0,Delhi,2023-02-06,44.0,tanvi.singh67@example.com
+68,Sahil,Rao,Male,37,Customer Support,Support Analyst,23000.0,Indore,2018-03-21,,sahil.rao68@example.com
+69,Raj,Kulkarni,Male,23,Operations,Operations Executive,68000.0,,2020-10-09,3.0,raj.kulkarni69@example.com
+70,Gaurav,Kulkarni,Female,28,HR,HR Manager,49000.0,Indore,2025-11-05,48.0,gaurav.kulkarni70@example.com
+71,Isha,More,Male,31,Marketing,Marketing Executive,61000.0,Pune,2024-06-28,40.0,isha.more71@example.com
+72,Sahil,Chavan,Female,25,Operations,MIS Executive,57000.0,Delhi,2019-02-22,16.0,sahil.chavan72@example.com
+73,Ananya,Pawar,Female,44,Marketing,Marketing Manager,30000.0,Nashik,2025-04-06,2.0,ananya.pawar73@example.com
+74,Sanjay,Naik,Male,48,Sales,Sales Executive,66000.0,Indore,2025-12-07,56.0,sanjay.naik74@example.com
+75,Ishaan,Ghosh,Female,55,Marketing,SEO Specialist,83000.0,Indore,2022-11-20,42.0,ishaan.ghosh75@example.com
+76,Mihir,Naik,Female,49,IT,SQL Developer,59000.0,Indore,2024-05-23,44.0,
+77,Akash,Shah,Female,32,Customer Support,Team Leader,49000.0,Delhi,2021-12-24,44.0,akash.shah77@example.com
+78,Neha,Wagh,Male,56,Marketing,SEO Specialist,23000.0,Nashik,2020-02-22,31.0,neha.wagh78@example.com
+79,Sana,Shah,Male,51,Marketing,Digital Marketing Analyst,84000.0,Indore,2018-03-12,38.0,sana.shah79@example.com
+80,Krishna,Chavan,Female,40,Operations,MIS Executive,62000.0,Jaipur,2022-02-20,71.0,krishna.chavan80@example.com
+81,Amruta,Pawar,Female,43,Sales,Sales Manager,78000.0,Hyderabad,2021-06-09,30.0,amruta.pawar81@example.com
+82,Deepak,Ghosh,Female,28,HR,Recruiter,45000.0,Delhi,2020-06-05,36.0,deepak.ghosh82@example.com
+83,Amruta,More,Male,33,Finance,Accountant,62000.0,Delhi,2022-01-18,39.0,amruta.more83@example.com
+84,Aditi,Saxena,Female,38,Marketing,Digital Marketing Analyst,27000.0,Nagpur,2024-03-16,17.0,aditi.saxena84@example.com
+85,Vikas,Deshmukh,Female,57,Customer Support,Support Executive,36000.0,Indore,2023-05-15,,vikas.deshmukh85@example.com
+86,Rahul,Singh,Female,51,IT,SQL Developer,42000.0,Pune,2022-06-30,10.0,rahul.singh86@example.com
+87,Aniket,Joshi,Female,26,HR,Recruiter,,Pune,2024-04-04,78.0,aniket.joshi87@example.com
+88,Krishna,Malhotra,Female,49,Marketing,Marketing Manager,78000.0,Hyderabad,2024-08-07,40.0,krishna.malhotra88@example.com
+89,Anjali,More,Male,34,Operations,Operations Executive,60000.0,Delhi,2020-12-19,21.0,anjali.more89@example.com
+90,Meera,Singh,Female,31,Marketing,Marketing Executive,22000.0,Chennai,2023-01-20,38.0,meera.singh90@example.com
+91,Akhil,Kulkarni,Male,50,Finance,Finance Executive,34000.0,Delhi,2020-12-19,55.0,akhil.kulkarni91@example.com
+92,Chetan,Nair,Male,38,HR,HR Analyst,40000.0,,2018-09-02,40.0,chetan.nair92@example.com
+93,Nikhil,Mishra,Female,40,IT,BI Analyst,117000.0,Chennai,2021-01-20,57.0,nikhil.mishra93@example.com
+94,Arnav,More,Male,41,IT,BI Analyst,105000.0,Hyderabad,2018-04-16,30.0,arnav.more94@example.com
+95,Aditya,Malhotra,Female,57,Operations,Operations Analyst,22000.0,Mumbai,2023-04-12,36.0,
+96,Jatin,Iyer,Female,26,Sales,Business Development Executive,80000.0,Bengaluru,2022-07-31,42.0,jatin.iyer96@example.com
+97,Bhavna,Kale,Female,47,HR,Recruiter,85000.0,Hyderabad,2025-06-06,71.0,bhavna.kale97@example.com
+98,Akhil,Mishra,Female,37,IT,SQL Developer,69000.0,Pune,2026-08-31,66.0,akhil.mishra98@example.com
+99,Aarav,Thakur,Female,47,Customer Support,Support Analyst,21000.0,Delhi,2023-10-25,80.0,aarav.thakur99@example.com
+100,Yash,Bhosale,Female,34,Sales,Sales Executive,54000.0,Nashik,2019-06-21,57.0,yash.bhosale100@example.com
+101,Vikas,Deshmukh,Male,36,IT,QA Analyst,118000.0,Mumbai,2021-06-26,71.0,vikas.deshmukh101@example.com
+102,Sana,Verma,Female,50,HR,HR Executive,37000.0,Mumbai,2023-08-04,,sana.verma102@example.com
+103,Abhishek,Saxena,Male,51,Finance,Finance Manager,85000.0,Delhi,2023-02-14,50.0,abhishek.saxena103@example.com
+104,Kajal,Banerjee,Female,25,Marketing,Digital Marketing Analyst,57000.0,Chennai,2021-10-24,1.0,kajal.banerjee104@example.com
+105,Nikhil,Ghosh,Female,30,Finance,Finance Manager,82000.0,Nashik,2023-06-07,43.0,nikhil.ghosh105@example.com
+106,Darshan,Chavan,Male,33,Sales,Sales Manager,50000.0,Jaipur,2022-04-18,100.0,darshan.chavan106@example.com
+107,Sana,Patil,Male,45,Finance,Finance Manager,74000.0,Mumbai,2023-07-22,17.0,sana.patil107@example.com
+108,Zoya,Iyer,Male,49,Finance,Accountant,37000.0,Nashik,2023-02-15,93.0,zoya.iyer108@example.com
+109,Diya,Jadhav,Female,25,Customer Support,Senior Support Executive,48000.0,Hyderabad,2021-10-18,84.0,diya.jadhav109@example.com
+110,Arnav,Kale,Male,41,Finance,Finance Manager,105000.0,Indore,2024-01-26,80.0,arnav.kale110@example.com
+111,Ankita,Kulkarni,Male,35,Operations,Operations Analyst,67000.0,Pune,2022-11-13,98.0,ankita.kulkarni111@example.com
+112,Avani,Mishra,Female,22,HR,Recruiter,27000.0,Bengaluru,2018-08-18,46.0,avani.mishra112@example.com
+113,Rohan,Jadhav,Male,54,HR,HR Analyst,74000.0,Jaipur,2025-08-24,22.0,rohan.jadhav113@example.com
+114,Ishaan,Verma,Male,36,Marketing,Marketing Manager,85000.0,Jaipur,2019-08-10,60.0,
+115,Mohan,Mishra,Male,50,Finance,Accountant,61000.0,,2019-10-10,57.0,mohan.mishra115@example.com
+116,Raj,Iyer,Female,37,Finance,Finance Manager,,Hyderabad,2020-03-26,110.0,raj.iyer116@example.com
+117,Varun,Deshmukh,Female,57,HR,HR Manager,67000.0,Jaipur,2021-04-26,3.0,varun.deshmukh117@example.com
+118,Sameer,Rao,Female,24,IT,Data Engineer,144000.0,Jaipur,2026-05-11,107.0,sameer.rao118@example.com
+119,Nikhil,Malhotra,Female,43,Customer Support,Senior Support Executive,32000.0,Delhi,2024-12-18,,nikhil.malhotra119@example.com
+120,Dev,Bhosale,Female,23,IT,QA Analyst,67000.0,Indore,2018-05-17,94.0,dev.bhosale120@example.com
+121,Deepika,Verma,Female,47,Finance,Finance Executive,47000.0,Delhi,2019-06-26,68.0,deepika.verma121@example.com
+122,Zoya,Banerjee,Female,37,Finance,Financial Analyst,86000.0,Hyderabad,2026-05-16,103.0,zoya.banerjee122@example.com
+123,Chetan,Mishra,Female,35,IT,Software Engineer,138000.0,Chennai,2024-04-01,12.0,chetan.mishra123@example.com
+124,Sameer,Sharma,Female,50,Finance,Accountant,72000.0,Hyderabad,2024-07-22,106.0,sameer.sharma124@example.com
+125,Rohan,Deshmukh,Female,51,Operations,MIS Executive,21000.0,Jaipur,2024-04-18,118.0,rohan.deshmukh125@example.com
+126,Krishna,Bhosale,Female,50,IT,QA Analyst,144000.0,Hyderabad,2025-04-13,15.0,krishna.bhosale126@example.com
+127,Dev,Patil,Male,52,IT,SQL Developer,42000.0,Pune,2020-08-19,50.0,dev.patil127@example.com
+128,Sonali,Pawar,Male,58,Operations,Operations Manager,67000.0,Mumbai,2022-08-27,107.0,sonali.pawar128@example.com
+129,Vikas,More,Female,23,Sales,Sales Manager,67000.0,Delhi,2022-12-22,61.0,vikas.more129@example.com
+130,Riya,Deshmukh,Female,55,Operations,Operations Analyst,77000.0,Bengaluru,2018-09-06,71.0,riya.deshmukh130@example.com
+131,Kajal,Deshmukh,Male,26,Customer Support,Support Analyst,60000.0,Delhi,2025-03-13,13.0,kajal.deshmukh131@example.com
+132,Priya,Kulkarni,Male,25,HR,HR Analyst,48000.0,Jaipur,2020-06-03,85.0,priya.kulkarni132@example.com
+133,Diya,Sinha,Female,38,Marketing,Marketing Executive,40000.0,Mumbai,2024-01-22,45.0,
+134,Chetan,Thakur,Female,29,Customer Support,Support Executive,18000.0,Bengaluru,2020-09-01,5.0,chetan.thakur134@example.com
+135,Ishaan,Rao,Male,47,IT,Software Engineer,95000.0,Pune,2026-05-13,122.0,ishaan.rao135@example.com
+136,Soham,Malhotra,Male,49,Finance,Accountant,89000.0,Delhi,2024-11-24,,soham.malhotra136@example.com
+137,Aman,Mehta,Male,24,Sales,Sales Executive,81000.0,Chennai,2022-10-13,126.0,aman.mehta137@example.com
+138,Sneha,Verma,Female,30,IT,SQL Developer,36000.0,,2021-01-31,98.0,sneha.verma138@example.com
+139,Amruta,Mehta,Male,27,Sales,Business Development Executive,34000.0,Nashik,2026-01-31,111.0,amruta.mehta139@example.com
+140,Soham,Wagh,Male,42,HR,HR Manager,80000.0,Chennai,2022-08-31,81.0,soham.wagh140@example.com
+141,Shivani,Kadam,Male,44,Operations,Operations Analyst,29000.0,Indore,2018-10-02,22.0,shivani.kadam141@example.com
+142,Ashish,Jadhav,Male,44,IT,QA Analyst,131000.0,Mumbai,2024-03-28,85.0,ashish.jadhav142@example.com
+143,Deepak,Jadhav,Female,24,Finance,Finance Manager,61000.0,Jaipur,2021-07-03,27.0,deepak.jadhav143@example.com
+144,Zoya,Gupta,Female,35,HR,HR Manager,35000.0,Bengaluru,2024-03-28,30.0,zoya.gupta144@example.com
+145,Neha,Iyer,Female,56,HR,HR Manager,,Jaipur,2025-05-18,8.0,neha.iyer145@example.com
+146,Jatin,Rao,Male,42,Operations,Operations Analyst,42000.0,Nagpur,2020-01-14,145.0,jatin.rao146@example.com
+147,Samir,Verma,Female,26,HR,HR Executive,49000.0,Chennai,2022-09-16,88.0,samir.verma147@example.com
+148,Harsh,Pawar,Male,57,Finance,Finance Executive,101000.0,Pune,2018-08-04,41.0,harsh.pawar148@example.com
+149,Aniket,Thakur,Female,49,IT,SQL Developer,112000.0,Chennai,2023-06-13,107.0,aniket.thakur149@example.com
+150,Naman,Gupta,Female,43,Customer Support,Support Executive,45000.0,Pune,2021-03-06,135.0,naman.gupta150@example.com
